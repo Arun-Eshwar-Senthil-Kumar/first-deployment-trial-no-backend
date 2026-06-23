@@ -135,7 +135,7 @@ body {
 /* Highlight the input when it's focused (clicked) */
 .task-input:focus {
   border-color: #5B5EA6;
-  background-color: #FFFFFF;
+  background-color: #000000;
   box-shadow: 0 0 0 4px rgba(91, 94, 166, 0.1);
 }
 
